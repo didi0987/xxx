@@ -15,4 +15,9 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
-/node_module
+/node_modules/
+/lib/vuejs/*
+/dest/
+/config/
+/package.json
+/resource/images/

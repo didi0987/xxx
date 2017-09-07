@@ -1,0 +1,9 @@
+该项目只是脚手架,可供大家学习vue框架+gulp构建使用
+1.第一次运行npm install -d
+2.gulp debug 开发使用
+3.gulp build 发布使用
+
+
+
+//相关资源
+muse-ui:https://museui.github.io/#/index
